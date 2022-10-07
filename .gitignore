@@ -1,0 +1,9 @@
+/OpenGLTest/Debug
+/OpenGLTest/Release
+/OpenGLTest/Source/glad
+/OpenGLTest/models
+/OpenGLTest/txs
+/OpenGLTest/unix
+/OpenGLTest/.vscode
+*.cap
+*.txt
